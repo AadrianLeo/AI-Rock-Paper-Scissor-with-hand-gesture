@@ -6,7 +6,7 @@
 #
 # Introduction
 
-AI Rock Paper Scissor with hand gesture is an AI based project in which 
+AI Rock Paper Scissor with hand gesture is an AI based python project in which 
 you can detect hand and fingers and with the help of your fingers co-ordinates you can figure out if it is an rock,
 paper or scissor sign with the help of this you can play this game with the 
 AI where the AI plays with the player and the scores are given as per who wins the game. you an start the game by pressing ' s ' on the keyboard per time you play.
