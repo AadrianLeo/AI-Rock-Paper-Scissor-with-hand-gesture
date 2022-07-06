@@ -24,5 +24,6 @@ pip install numpy
 # and
 pip install cvzone
 # and if any error showed try downgrading 
-pip install protobuf
+pip uninstall protobuf
+pip install protobuf==3.2.0
 ```
